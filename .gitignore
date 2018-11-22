@@ -11,3 +11,5 @@ data/weather-big
 data/myfile.hdf5
 profile.html
 log
+*.json
+*.csv
